@@ -169,11 +169,11 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 17------------------
 This is the master branch
-me
-
-
-
-
+Gabe Van Haecke
+Some interesting stuff about yourself
+I am in band
+I like video games
+I enjoy coding
 
 
 
